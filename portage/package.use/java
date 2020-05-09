@@ -1,0 +1,25 @@
+>=dev-lang/python-2.7.14-r1:2.7 sqlite
+# required by dev-qt/qt-creator-4.6.2::gentoo[cmake]
+# required by qt-creator (argument)
+>=dev-util/cmake-3.9.6 server
+# required by dev-java/netbeans-platform-8.2::gentoo
+# required by dev-java/netbeans-harness-8.2::gentoo
+# required by dev-java/netbeans-ide-8.2::gentoo
+# required by dev-java/netbeans-nb-8.2::gentoo
+# required by dev-util/netbeans-8.2::gentoo
+# required by netbeans (argument)
+>=dev-java/junit-4.12-r1 source
+# required by dev-java/netbeans-platform-8.2::gentoo
+# required by dev-java/netbeans-harness-8.2::gentoo
+# required by dev-java/netbeans-ide-8.2::gentoo
+# required by dev-java/netbeans-nb-8.2::gentoo
+# required by dev-util/netbeans-8.2::gentoo
+# required by netbeans (argument)
+>=dev-java/swing-layout-1.0.4-r1 source
+# required by dev-java/netbeans-platform-8.2::gentoo
+# required by dev-java/netbeans-harness-8.2::gentoo
+# required by dev-java/netbeans-ide-8.2::gentoo
+# required by dev-java/netbeans-nb-8.2::gentoo
+# required by dev-util/netbeans-8.2::gentoo
+# required by netbeans (argument)
+>=dev-java/oracle-jdk-bin-1.8.0.181 javafx

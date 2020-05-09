@@ -1,0 +1,2 @@
+dev-lang/rust ~amd64
+=dev-util/cargo-0.29.0 ~amd64

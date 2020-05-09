@@ -1,0 +1,7 @@
+# required by media-sound/pulseeffects-3.2.3::gentoo
+# required by pulseeffects (argument)
+>=media-plugins/calf-0.90.0 lv2
+# required by media-sound/pulseeffects-3.2.3::gentoo
+# required by pulseeffects (argument)
+>=media-sound/pulseaudio-11.1-r1 equalizer
+

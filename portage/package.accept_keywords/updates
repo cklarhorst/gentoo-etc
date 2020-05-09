@@ -1,0 +1,2 @@
+=dev-libs/icu-61.1 ~amd64
+>=sys-libs/ncurses-compat-5.9 abi_x86_32

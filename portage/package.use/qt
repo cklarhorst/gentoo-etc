@@ -1,0 +1,35 @@
+# required by media-libs/mesa-18.1.6::gentoo[-video_cards_radeon,-video_cards_r600,llvm,-video_cards_radeonsi,-opencl]
+# required by dev-qt/qtgui-5.9.6::gentoo[egl]
+# required by dev-qt/qtwidgets-5.9.6-r1::gentoo
+# required by dev-qt/qtscript-5.9.6::gentoo[scripttools]
+# required by kde-frameworks/ki18n-5.46.0::gentoo
+# required by kde-frameworks/kconfigwidgets-5.46.0::gentoo
+# required by kde-frameworks/kiconthemes-5.46.0::gentoo
+# required by kde-plasma/polkit-kde-agent-5.12.5::gentoo
+# required by kde-frameworks/kauth-5.46.0::gentoo
+>=sys-devel/llvm-6.0.1 abi_x86_32
+# required by sys-devel/llvm-6.0.1::gentoo[xml]
+# required by media-libs/mesa-18.1.6::gentoo[-video_cards_radeon,-video_cards_r600,llvm,-video_cards_radeonsi,-opencl]
+# required by dev-qt/qtgui-5.9.6::gentoo[egl]
+# required by dev-qt/qtwidgets-5.9.6-r1::gentoo
+# required by dev-qt/qtscript-5.9.6::gentoo[scripttools]
+# required by kde-frameworks/ki18n-5.46.0::gentoo
+# required by kde-frameworks/kconfigwidgets-5.46.0::gentoo
+# required by kde-frameworks/kiconthemes-5.46.0::gentoo
+# required by kde-plasma/polkit-kde-agent-5.12.5::gentoo
+# required by kde-frameworks/kauth-5.46.0::gentoo
+>=dev-libs/libxml2-2.9.8 abi_x86_32
+# required by dev-libs/libxml2-2.9.8::gentoo[icu]
+# required by x11-base/xcb-proto-1.13::gentoo
+# required by x11-libs/xcb-util-cursor-0.1.3-r2::gentoo
+# required by x11-libs/xcb-util-0.4.0-r1::gentoo
+# required by x11-libs/xcb-util-image-0.4.0-r1::gentoo
+# required by dev-qt/qtgui-5.9.6::gentoo[xcb]
+# required by dev-qt/qtwidgets-5.9.6-r1::gentoo
+# required by dev-qt/qtscript-5.9.6::gentoo[scripttools]
+# required by kde-frameworks/ki18n-5.46.0::gentoo
+# required by kde-frameworks/kconfigwidgets-5.46.0::gentoo
+# required by kde-frameworks/kiconthemes-5.46.0::gentoo
+# required by kde-plasma/polkit-kde-agent-5.12.5::gentoo
+# required by kde-frameworks/kauth-5.46.0::gentoo
+>=dev-libs/icu-60.2 abi_x86_32

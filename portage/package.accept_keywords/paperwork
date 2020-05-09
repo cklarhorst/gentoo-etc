@@ -1,0 +1,15 @@
+=dev-python/simplebayes-1.5.7 ~amd64
+# required by paperwork (argument)
+=app-text/paperwork-1.2.4-r2 ~amd64
+# required by app-text/paperwork-1.2.4-r2::gentoo
+# required by paperwork (argument)
+=dev-python/libpillowfight-0.2.4 ~amd64
+# required by app-text/paperwork-1.2.4-r2::gentoo
+# required by paperwork (argument)
+=dev-python/pyocr-0.5.3 ~amd64
+# required by app-text/paperwork-1.2.4-r2::gentoo
+# required by paperwork (argument)
+=dev-python/pyinsane-2.0.13 ~amd64
+# required by app-text/paperwork-1.2.4-r2::gentoo
+# required by paperwork (argument)
+=app-text/paperwork-backend-1.2.4 ~amd64

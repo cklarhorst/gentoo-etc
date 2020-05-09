@@ -1,0 +1,15 @@
+=dev-libs/libgcrypt-1.5.6-r101 ~amd64
+# required by app-emulation/vmware-player-12.5.9.7535481::vmware
+# required by app-emulation/vmware-modules-308.5.9::vmware
+=dev-util/patchelf-0.9_p20180129 ~amd64
+# required by app-emulation/vmware-player-12.5.9.7535481::vmware
+# required by vmware-player (argument)
+=app-emulation/vmware-modules-308.5.9 ~amd64
+# required by app-emulation/vmware-modules-308.5.9::vmware
+=app-emulation/vmware-player-12.5.9.7535481 ~amd64
+# required by app-emulation/vmware-player-12.5.9.7535481::vmware[vmware-tools]
+# required by app-emulation/vmware-modules-308.5.9::vmware
+=app-emulation/vmware-tools-10.1.6.5214329 ~amd64
+=sys-auth/libnss-nis-1.4 ~amd64
+=app-emulation/open-vm-tools-10.3.5 ~amd64
+
